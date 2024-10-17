@@ -1,0 +1,70 @@
+{
+  "name": "sigecee",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@devexpress/dx-react-core": "^4.0.3",
+    "@devexpress/dx-react-grid": "^4.0.3",
+    "@devexpress/dx-react-grid-material-ui": "^4.0.3",
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@fontsource/montserrat": "^4.5.14",
+    "@fontsource/roboto": "^4.5.8",
+    "@mui/icons-material": "^5.11.11",
+    "@mui/material": "^5.11.12",
+    "@mui/x-date-pickers": "^5.0.20",
+    "axios": "^0.27.2",
+    "chart.js": "^4.2.1",
+    "dayjs": "^1.11.7",
+    "dayjs-es": "^1.0.0",
+    "html2canvas": "^1.4.1",
+    "intro.js-react": "^0.7.1",
+    "jspdf": "^2.5.1",
+    "markdown-to-jsx": "^7.1.9",
+    "moment": "^2.29.4",
+    "prop-types": "^15.8.1",
+    "react": "^18.2.0",
+    "react-chartjs-2": "^5.2.0",
+    "react-copy-to-clipboard": "^5.1.0",
+    "react-dom": "^18.2.0",
+    "react-dropzone": "^14.2.3",
+    "react-quill": "^2.0.0",
+    "react-redux": "^8.0.5",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "5.0.1",
+    "redux": "^4.2.0",
+    "redux-persist": "^6.0.0",
+    "redux-thunk": "^2.4.1",
+    "sass": "^1.54.9",
+    "survey-analytics": "^1.9.85",
+    "survey-creator-react": "^1.9.85",
+    "survey-pdf": "^1.9.85",
+    "survey-react-ui": "^1.9.85",
+    "web-vitals": "^2.1.4",
+    "xlsx": "https://cdn.sheetjs.com/xlsx-0.18.10/xlsx-0.18.10.tgz"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
